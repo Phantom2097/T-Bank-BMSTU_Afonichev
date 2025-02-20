@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "ru.phantom.t_bankl1"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ru.phantom.t_bankl1"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
